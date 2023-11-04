@@ -1,0 +1,1 @@
+This reppository is made up of a collection of Data Science proects showcasing my skills in Machine learning,  Artificial intelligence, and Data analysis.
